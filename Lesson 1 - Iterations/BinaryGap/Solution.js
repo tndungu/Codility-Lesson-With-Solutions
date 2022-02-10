@@ -1,3 +1,7 @@
+//Code written in JavaScript
+// Time Complexity: O(log(N))
+// Space Complexity: O(1)
+
 function solution(N) {
     // write your code in JavaScript (Node.js 8.9.4)
     let binaryGap = 0;
